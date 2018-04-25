@@ -1,6 +1,6 @@
 # epguides_app
 
-A TV Series Episodes Guide App 
+A TV Series Episodes Guide App Build Using Flutter
 
 ## Getting Started
 
